@@ -32,6 +32,9 @@ The ChillFlex application utilizes the IMDb API to fetch movie details. We would
 
 This project is inspired by the love for movies and the desire to create a simple and intuitive platform for movie enthusiasts to find information about their favorite films.
 ## Screenshots
+### iPad view - 
+![App Screenshot](https://github.com/Mohitpanjikar/ChillFlex-Movie/blob/main/tabview.png)
+### Laptop view -
+![App Screenshot](https://github.com/Mohitpanjikar/ChillFlex-Movie/blob/main/Laptop%20view.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
